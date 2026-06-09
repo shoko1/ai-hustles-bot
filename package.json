@@ -1,0 +1,9 @@
+{
+  "name": "ai-hustles-bot",
+  "version": "1.0.0",
+  "description": "בוט שמוצא side hustles עם AI ומפרסם לטלגרם",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
